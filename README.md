@@ -5,7 +5,7 @@ A black Notepad++ theme inspired by Hyper the HTML/JS/CSS Terminal
 
 ## Installation
 
-1. Download Hyper.xml 
+1. Download [Hyper.xml](https://raw.githubusercontent.com/kurtmkurtm/HyperTheme-NotepadPlusPlus/master/src/Hyper.xml) 
 2. Copy `Hyper.xml` over to `%AppData%\Notepad++\themes`
 3. Restart Notepad++
 4. Select Hyper in `Settings > Style Configurator`
