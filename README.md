@@ -1,7 +1,7 @@
 # Hyper Theme - Notepad++
 A black Notepad++ theme inspired by Hyper the HTML/JS/CSS Terminal
 
-
+![Theme Screenshot](https://raw.githubusercontent.com/kurtmkurtm/HyperTheme-NotepadPlusPlus/master/resources/ThemeSample.png)
 
 ## Installation
 
